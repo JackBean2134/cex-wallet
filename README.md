@@ -55,6 +55,18 @@
    3. 模拟在 Solana 取款： `cd wallet && npm run mock:withdraw:solana:sol` 
 
 服务推荐启动顺序：db_gateway -> risk_control -> signer  ->  wallet -> scan
+对user/2用户进行操作
+存款前
+<img width="521" height="401" alt="存款前" src="https://github.com/user-attachments/assets/0f33a30d-c365-42cf-9f3d-a370ae87e656" />
+
+存款后
+<img width="1257" height="419" alt="存款后" src="https://github.com/user-attachments/assets/eccf5bff-04cd-4c57-a390-5a90149d36bb" />
+
+取款流水
+<img width="1188" height="782" alt="取款" src="https://github.com/user-attachments/assets/c2b52faa-51fa-4591-a9be-1cf32eaa6f86" />
+
+取款后
+<img width="1129" height="412" alt="取款后" src="https://github.com/user-attachments/assets/5fff9cca-fe4f-4311-a6f3-5734a6b5fd66" />
 
 ## 贡献指南
 
